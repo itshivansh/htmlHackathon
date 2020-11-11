@@ -43,3 +43,10 @@ http://themes.semicolonweb.com/html/canvas/portfolio.php
 Avoid using any third-party plugins.
 
 ## Screenshots
+
+
+![img1](./images/sc1.PNG)
+![img2](./images/sc2.PNG)
+![img3](./images/sc3.PNG)
+
+## There is a kids section too. 
