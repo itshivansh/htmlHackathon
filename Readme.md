@@ -49,4 +49,9 @@ Avoid using any third-party plugins.
 ![img2](./images/sc2.PNG)
 ![img3](./images/sc3.PNG)
 
-## There is a kids section too. 
+## There is a kids section too.
+
+
+[link](html/index.html)
+
+
